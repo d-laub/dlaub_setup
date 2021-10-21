@@ -1,0 +1,11 @@
+name: py3-DS
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - seaborn
+  - plotly
+  - ipykernel
+prefix: /home/david/miniconda3/envs/py3-DS

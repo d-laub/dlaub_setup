@@ -1,0 +1,14 @@
+name: py-model
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scikit-learn
+  - xgboost
+  - optuna
+  - seaborn
+  - ipykernel
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /home/david/miniconda3/envs/py-model

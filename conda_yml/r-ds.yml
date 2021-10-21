@@ -1,0 +1,20 @@
+name: r-ds
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - r-essentials
+  - r-r.utils
+  - r-irkernel
+  - r-arrow
+  - r-languageserver
+  - radian
+  - r-httpgd
+  - r-nycflights13
+  - r-gapminder
+  - r-lahman
+  - ca-certificates
+  - openssl
+  - r-tidymodels
+prefix: /home/david/miniconda3/envs/r-ds
