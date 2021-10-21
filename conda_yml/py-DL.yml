@@ -1,0 +1,21 @@
+name: py-DL
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch::pytorch
+  - pytorch::captum
+  - nvidia::cudatoolkit=11.1
+  - wandb
+  - optuna
+  - einops
+  - pytorch-lightning
+  - torchmetrics
+  - ipykernel
+  - pandas
+  - pyarrow
+  - seaborn
+  - fastcluster
+  - scikit-learn
+  - statsmodels
+prefix: /home/david/miniconda3/envs/py3_DL
