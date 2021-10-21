@@ -1,4 +1,4 @@
-name: py-model
+name: py-ML
 channels:
   - conda-forge
   - defaults
