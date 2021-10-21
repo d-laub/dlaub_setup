@@ -1,4 +1,4 @@
-name: py-DL
+name: py-dl
 channels:
   - conda-forge
   - defaults

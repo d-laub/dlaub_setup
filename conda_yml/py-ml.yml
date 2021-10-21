@@ -1,8 +1,9 @@
-name: py-ML
+name: py-ml
 channels:
   - conda-forge
   - defaults
 dependencies:
+  - pandas
   - scikit-learn
   - xgboost
   - optuna

@@ -1,4 +1,4 @@
-name: py-DS
+name: py-ds
 channels:
   - conda-forge
   - defaults
