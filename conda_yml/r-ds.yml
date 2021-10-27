@@ -17,4 +17,5 @@ dependencies:
   - ca-certificates
   - openssl
   - r-tidymodels
+  - r-skimr
 prefix: /home/david/miniconda3/envs/r-ds
