@@ -18,4 +18,3 @@ dependencies:
   - openssl
   - r-tidymodels
   - r-skimr
-prefix: /home/david/miniconda3/envs/r-ds
