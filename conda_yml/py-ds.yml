@@ -4,8 +4,12 @@ channels:
   - defaults
 dependencies:
   - python
+  - numpy
+  - scipy
   - pandas
+  - matplotlib
   - seaborn
+  - statsmodels
   - plotly
   - ipykernel
-prefix: /home/david/miniconda3/envs/py3-DS
+  - pyarrow
