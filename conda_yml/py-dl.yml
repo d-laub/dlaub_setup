@@ -18,4 +18,3 @@ dependencies:
   - fastcluster
   - scikit-learn
   - statsmodels
-prefix: /home/david/miniconda3/envs/py3_DL
