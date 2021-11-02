@@ -12,4 +12,3 @@ dependencies:
   - ca-certificates
   - certifi
   - openssl
-prefix: /home/david/miniconda3/envs/py-model
