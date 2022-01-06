@@ -1,0 +1,7 @@
+alias ls="ls --group-directories-first --color=auto"
+alias emacs="emacs -nw"
+
+alias cpv='rsync -ah --info=progress2' # proper cp
+alias tcn='mv --force -t ~/.local/share/Trash ' # proper delete
+alias tks='tmux kill-server'
+alias sudo='sudo '
