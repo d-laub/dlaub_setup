@@ -1,7 +1,12 @@
 alias ls="ls --group-directories-first --color=auto"
 alias emacs="emacs -nw"
+alias es="exa --group-directories-first -F"
+alias el="exa --group-directories-first -lFg"
+alias esg="exa --group-directories-first --git-ignore -F"
+alias elg="exa --group-directories-first --git-ignore -lFg"
 
 alias cpv='rsync -ah --info=progress2' # proper cp
+alias cpvst='cpv "$(bm -p source)" "$(bm -p target)"'
 alias tcn='mv --force -t ~/.local/share/Trash ' # proper delete
 alias tks='tmux kill-server'
 alias sudo='sudo '
